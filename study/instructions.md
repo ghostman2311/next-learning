@@ -30,4 +30,9 @@
 1. Just create the page.tsx files.
    ![alt text](image-5.png)
 
-2. 
+## Stubbing out server actions
+
+1. Create three separate files in actions folder
+   ![alt text](image-6.png)
+
+2. Just create dummy function and export from actions/index.ts

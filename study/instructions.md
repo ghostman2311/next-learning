@@ -36,3 +36,7 @@
    ![alt text](image-6.png)
 
 2. Just create dummy function and export from actions/index.ts
+
+## Planning Revalidating strategies
+
+1. Add comments to server actions for flushing out cache

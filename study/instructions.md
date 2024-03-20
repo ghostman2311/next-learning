@@ -47,3 +47,7 @@
 2. Import the header in layout
 3. here is the jsx
    ![alt text](image-7.png)
+
+## Displaying the signin and sign out buttons
+
+1. 

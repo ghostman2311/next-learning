@@ -82,4 +82,12 @@
 
 ## Creating a Popover form
 
-1.
+1. Here is the jsx for TopicCreateForm
+   ![alt text](image-12.png)
+
+## Receiving Form Data
+
+1. Just add a name field to Input and text area
+2. Fetch name and description from formdata
+
+## Adding Form Validation with Zod

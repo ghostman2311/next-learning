@@ -22,3 +22,12 @@
 1. Create a path.ts in src
 2. This is how we create the path helper function
    ![alt text](image-4.png)
+
+# 20 March
+
+## Creating the routing structure
+
+1. Just create the page.tsx files.
+   ![alt text](image-5.png)
+
+2. 

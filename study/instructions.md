@@ -40,3 +40,10 @@
 ## Planning Revalidating strategies
 
 1. Add comments to server actions for flushing out cache
+
+## Building the header
+
+1. Create header.tsx in component file
+2. Import the header in layout
+3. here is the jsx
+   ![alt text](image-7.png)

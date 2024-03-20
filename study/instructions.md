@@ -58,3 +58,18 @@
 1. Just wire up the actions with signin/signout buttons
 2. Updated JSX
    ![alt text](image-9.png)
+
+## More Caching Issues
+
+1. Right now if we try build the app then homepage will be dynamic but we are not using anything there that will make the page dynamic.
+2. For best performance, we want to build our pages statically as much as we can.
+3. Problem is cookie is changing inside the header when we are checking if user is logged in or not. That is responsible for making the homepage dynamic.
+
+## Static Caching while using auth
+
+1. Every page that is displaying the header will be dynamic.
+2. Solution is to make header component as client components.
+3. useSession doesn't directly access cookies.
+   ![alt text](image-10.png)
+
+4. 

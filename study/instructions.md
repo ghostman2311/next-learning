@@ -91,3 +91,13 @@
 2. Fetch name and description from formdata
 
 ## Adding Form Validation with Zod
+
+1. Install zod library
+2. Create createTopicSchema in server action
+   ![alt text](image-14.png)
+3. Regex shoud be like this
+   ![alt text](image-13.png)
+4. Schema will have safe parse function which will work like this
+   ![alt text](image-15.png)
+5. This is how we will validate form data with zod schema safeparse function
+   ![alt text](image-16.png)

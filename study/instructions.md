@@ -72,4 +72,10 @@
 3. useSession doesn't directly access cookies.
    ![alt text](image-10.png)
 
-4. 
+4. Add a new case authContent = null because now we are using client component
+
+## Creating topics
+
+1. Create topic create form component.
+2. Update the root page.tsx jsx like this
+   ![alt text](image-11.png)

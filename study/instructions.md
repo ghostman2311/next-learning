@@ -50,4 +50,11 @@
 
 ## Displaying the signin and sign out buttons
 
-1. 
+1. Here is the JSX for this lecture
+   ![alt text](image-8.png)
+
+## Enabling Sign out
+
+1. Just wire up the actions with signin/signout buttons
+2. Updated JSX
+   ![alt text](image-9.png)

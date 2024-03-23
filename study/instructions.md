@@ -126,3 +126,13 @@
 
 1. Add this prop to Input or TextArea
    ![alt text](image-21.png)
+
+## Handling General Form Errors
+
+1. add new property to the interface i.e '\_form'
+   ![alt text](image-22.png)
+2. Now we want to display errors if user is not signed and he is creating new topic.
+3. Add this check
+   ![alt text](image-23.png)
+4. Display the form error like this
+   ![alt text](image-24.png)

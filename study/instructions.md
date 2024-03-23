@@ -121,3 +121,8 @@
    ![alt text](image-19.png)
 2. Update the server action like this
    ![alt text](image-20.png)
+
+## Displaying validation errors
+
+1. Add this prop to Input or TextArea
+   ![alt text](image-21.png)

@@ -101,3 +101,9 @@
    ![alt text](image-15.png)
 5. This is how we will validate form data with zod schema safeparse function
    ![alt text](image-16.png)
+
+## Reminder on the UseFormState Hook
+
+1. Whatever we will be returning from our server actions, will be sent to our component
+2. Here is how useFormState hook will work
+   ![alt text](image-17.png)

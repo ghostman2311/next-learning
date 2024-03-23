@@ -136,3 +136,13 @@
    ![alt text](image-23.png)
 4. Display the form error like this
    ![alt text](image-24.png)
+
+## Handling Database errors in forms
+
+1. Import these statements
+   ![alt text](image-25.png)
+2. Update the function like this
+   ![alt text](image-26.png)
+
+3. After that revalidate and redirect the user
+   ![alt text](image-27.png)

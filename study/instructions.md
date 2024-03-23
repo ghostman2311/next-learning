@@ -115,4 +115,9 @@
 3. What we return from server action must match with what we put as initial state
    ![alt text](image-18.png)
 
+## Here's our form state type
 
+1. Create this type in action
+   ![alt text](image-19.png)
+2. Update the server action like this
+   ![alt text](image-20.png)

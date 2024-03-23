@@ -107,3 +107,12 @@
 1. Whatever we will be returning from our server actions, will be sent to our component
 2. Here is how useFormState hook will work
    ![alt text](image-17.png)
+
+## Fixing UserFormState Type Errors
+
+1. Import useFormState in topic create form. Make it as client component.
+2. How to fix the error we are getting when we pass action to useFormState hook.
+3. What we return from server action must match with what we put as initial state
+   ![alt text](image-18.png)
+
+

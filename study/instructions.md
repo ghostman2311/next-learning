@@ -146,3 +146,19 @@
 
 3. After that revalidate and redirect the user
    ![alt text](image-27.png)
+
+---
+
+# 25 March
+
+## Showing Loading Spinners with UseFormStatus
+
+1. Just add small delay
+   ![alt text](image-28.png)
+
+2. We can not use useFormStatus hook directly on parent component.
+   ![alt text](image-29.png)
+
+3. Create common inside the component and create form-button in it.
+4. Here's the tsx for our new component
+   ![alt text](image-30.png)

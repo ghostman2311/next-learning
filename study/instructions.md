@@ -162,3 +162,11 @@
 3. Create common inside the component and create form-button in it.
 4. Here's the tsx for our new component
    ![alt text](image-30.png)
+
+# 28 March
+
+## Fetching and listing content from prisma
+
+1. Create topic-list.tsx in components/topics directory
+2. Here are the tsx for this components
+   ![alt text](image-31.png)

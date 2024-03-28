@@ -228,3 +228,23 @@
 ## Merging few files
 
 1. Merge the downloaded files
+
+## Considerations around where to fetch data
+
+1. Which component should make query to database for fetching posts.
+   ![alt text](image-45.png)
+
+2. We need this much info to display on post list page
+   ![alt text](image-46.png)
+
+3. There are two options in which child component can have appropriate data
+
+- Page component gets data and passes it to child
+- ![alt text](image-47.png)
+- Child component fetches its own data
+  ![alt text](image-48.png)
+
+4. Pros and cons of option #1
+   ![alt text](image-49.png)
+
+5. n+1 query is defined as when a component fetches details about post but later it needs the slug also then component make another request to database to fetch the slug related to post.

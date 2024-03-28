@@ -216,3 +216,11 @@
 
 6. This is how we will find the topic inside the server actions because we need topic id.
    ![alt text](image-42.png)
+
+## Creating the record
+
+1. Here is code the create new post
+   ![alt text](image-43.png)
+
+2. After you have created the post now, revalidate and redirect
+   ![alt text](image-44.png)

@@ -224,3 +224,7 @@
 
 2. After you have created the post now, revalidate and redirect
    ![alt text](image-44.png)
+
+## Merging few files
+
+1. Merge the downloaded files

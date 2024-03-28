@@ -194,3 +194,10 @@
 
 2. Wire up useFormState in PostCreate Form
 
+## Checking authentication status
+
+1. Just add this piece of code in create post server actions
+   ![alt text](image-37.png)
+
+2. Add this jsx above the form button in create-post form
+   ![alt text](image-38.png)

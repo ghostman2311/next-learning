@@ -179,3 +179,10 @@
 
 2. Here is the tsx for this lecture
    ![alt text](image-34.png)
+
+## Displaying a creation form
+
+1. Create new directory inside the components called posts and create post-create-form.tsx file.
+2. Import post create form inside the topic show page
+3. Here is the tsx for this lecture
+   ![alt text](image-35.png)

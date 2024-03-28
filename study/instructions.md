@@ -201,3 +201,18 @@
 
 2. Add this jsx above the form button in create-post form
    ![alt text](image-38.png)
+
+## Passing additional args to a server action
+
+1. Here is the visual representation of our table
+   ![alt text](image-39.png)
+2. Currently we don't have access to the topic id in create post server actions
+3. This is our current component diagram
+   ![alt text](image-40.png)
+
+4. Pass slug from topic show page to postcreate form
+5. This is how we pass extra args using useFormState to server actions
+   ![alt text](image-41.png)
+
+6. This is how we will find the topic inside the server actions because we need topic id.
+   ![alt text](image-42.png)

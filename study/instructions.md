@@ -170,3 +170,12 @@
 1. Create topic-list.tsx in components/topics directory
 2. Here are the tsx for this components
    ![alt text](image-31.png)
+   ![alt text](image-32.png)
+
+## Scaffolding the topic show page
+
+1. Add this interface in topic show page
+   ![alt text](image-33.png)
+
+2. Here is the tsx for this lecture
+   ![alt text](image-34.png)

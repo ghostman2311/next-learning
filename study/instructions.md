@@ -186,3 +186,11 @@
 2. Import post create form inside the topic show page
 3. Here is the tsx for this lecture
    ![alt text](image-35.png)
+
+## Applying validation to post creation
+
+1. This is how our createPost action looks
+   ![alt text](image-36.png)
+
+2. Wire up useFormState in PostCreate Form
+

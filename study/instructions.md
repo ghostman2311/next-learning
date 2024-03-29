@@ -248,3 +248,27 @@
    ![alt text](image-49.png)
 
 5. n+1 query is defined as when a component fetches details about post but later it needs the slug also then component make another request to database to fetch the slug related to post.
+
+# 29 March
+
+## Caching(Revision)
+
+1. There 4 type of caching in next js
+
+- Data cache
+- Router Cache
+- Request memoization
+- Full route cache
+- ![alt text](image-50.png)
+
+2. Whenever we run npm run build, next determines if it is static or dynamic based on factors like if it is using cookies, or params etc
+
+3. There are several ways to control caching
+
+- Time Based: Every x seconds, ignorethe cached response and fetch new data
+- On demand: Forcibly purge a cached response using revalidatePath etc
+- Disable Caching: Don't do any caching(We can use export const revalidate = 0; or export const dynamic = 'force-dynamic')
+
+4. We can still cached the dynamic pages using generateStaticParams
+
+- ![alt text](image-51.png)
